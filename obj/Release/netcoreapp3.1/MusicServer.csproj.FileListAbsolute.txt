@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.exe
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.deps.json
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.runtimeconfig.json
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.dll
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\bin\Release\netcoreapp3.1\MusicServer.pdb
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.dll
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.pdb
+C:\Users\Leo\Desktop\Workspace\MusicServer\MusicServer\MusicServer\obj\Release\netcoreapp3.1\MusicServer.genruntimeconfig.cache
