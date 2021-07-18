@@ -1,6 +1,0 @@
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\MusicServer.exe
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\MusicServer.dll
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\MusicServer.deps.json
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\MusicServer.runtimeconfig.json
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\MusicServer.pdb
-C:\Users\Leo\Desktop\Workspace\MusicApp\MusicServer\bin\Debug\netcoreapp3.1\publish\taglib-sharp.dll
